@@ -1,0 +1,7 @@
+test_named_member_cache_hash_and_archive_layout (test_download.DownloadTests.test_named_member_cache_hash_and_archive_layout) ... ok
+test_chronology_and_duration_exclusion (test_project.BankTests.test_chronology_and_duration_exclusion) ... ok
+test_complete_fixture_run_and_inference (test_project.BankTests.test_complete_fixture_run_and_inference) ... ok
+test_inference_schema_and_unknown_categories (test_project.BankTests.test_inference_schema_and_unknown_categories) ... ok
+test_threshold_uses_supplied_holdout (test_project.BankTests.test_threshold_uses_supplied_holdout) ... ok
+Ran 5 tests in 0.929s
+OK

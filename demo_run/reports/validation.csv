@@ -1,0 +1,5 @@
+model,validation_average_precision
+hist_gradient_boosting,0.9688888888888889
+logistic_C1,0.5124213279728155
+random_forest,0.4621084196543818
+prevalence_baseline,0.25

@@ -1,0 +1,31 @@
+{
+  "mode": "quick",
+  "seed": 42,
+  "utc": "2026-10-10T06:28:11.662893+00:00",
+  "python": "3.12.14",
+  "dependencies": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.10.8",
+    "joblib": "1.5.3",
+    "Pillow": "12.3.0"
+  },
+  "data_sha256": "f120919ce17853856aa7d63472e3c82e236c2ed5f3da074916298f258b1b16ea",
+  "dataset": "SIMULATED demonstration fixture; not a real-data benchmark",
+  "selected": "hist_gradient_boosting",
+  "threshold": 0.2961184778442973,
+  "selection": "maximum validation average precision",
+  "counts": {
+    "train": 240,
+    "validation": 60,
+    "calibration": 20,
+    "threshold": 20,
+    "test": 60
+  },
+  "excluded": [
+    "duration"
+  ],
+  "rows_after_deduplication_and_sampling": 400
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "subscription_probability": 0.0655272574,
+    "predicted_subscription": false,
+    "training_data_source": "SIMULATED demonstration fixture; not a real-data benchmark"
+  },
+  {
+    "subscription_probability": 0.6164158782,
+    "predicted_subscription": true,
+    "training_data_source": "SIMULATED demonstration fixture; not a real-data benchmark"
+  }
+]

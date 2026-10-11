@@ -1,0 +1,3 @@
+age,balance,day,campaign,pdays,previous,job,marital,education,default,housing,loan,contact,month,poutcome
+35,1250,12,1,-1,0,technician,single,tertiary,no,yes,no,cellular,may,unknown
+58,4700,17,2,120,1,retired,married,secondary,no,no,no,telephone,oct,success
