@@ -83,3 +83,5 @@ demo_run/ includes a completed, explicitly simulated software demonstration and 
 ~~~bash
 python main.py predict --model demo_run/models/model.joblib --input examples/customer.csv
 ~~~
+
+**Development date:** March 2024
